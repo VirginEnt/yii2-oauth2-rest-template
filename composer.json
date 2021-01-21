@@ -1,20 +1,20 @@
 {
-  "name": "ikaras/yii2-oauth2-rest-template",
+  "name": "virginent/yii2-oauth2-rest-template",
   "description": "Yii2 Rest APi Template with OAuth2 (fully configured filsh/yii2-oauth2-server extension)",
   "keywords": ["yii2", "rest", "oauth2", "application template", "api"],
-  "homepage": "https://github.com/ikaras/yii2-oauth2-rest-template",
+  "homepage": "https://github.com/virginent/yii2-oauth2-rest-template",
   "type": "project",
   "minimum-stability": "dev",
   "license": "MIT",
   "authors": [
     {
-      "name": "Ihor Karas",
-      "email": "ihor@karas.in.ua"
+      "name": "Daniel Lucas",
+      "email": "daniel.lucas@dlmails.de"
     }
   ],
   "support": {
-    "issues": "https://github.com/ikaras/yii2-oauth2-rest-template/issues",
-    "source": "https://github.com/ikaras/yii2-oauth2-rest-template"
+    "issues": "https://github.com/virginent/yii2-oauth2-rest-template/issues",
+    "source": "https://github.com/virginent/yii2-oauth2-rest-template"
   },
   "require": {
     "php": ">=5.4.0",
